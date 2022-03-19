@@ -4,6 +4,8 @@ Due to the limitation of uploading large files, please check the original data f
 
 https://drive.google.com/drive/folders/1yJ1tL_o7IE9jc0tYLe8T7-mWGaCZHgG9?usp=sharing
 
+Please check the Manual.pdf to learn how to use the database.
+
 If you want to use this database please cite this reference:
 
 Wang, S.M., Jiang, G.F., Ni, Y.Q., Lu, Y., Lin, G.B., Pan, H.L., Xu, J.Q. and Hao, S. (2022), 
